@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a22c53c60e018c41a33b7c8d35f7ef8, type: 3}
+  m_Name: ChessPieceData
+  m_EditorClassIdentifier: 
+  kingBlackPrefab: {fileID: 6402980825321836613, guid: bf8683cf38bdb9c4ba2fb5637ed4464d, type: 3}
+  queenBlackPrefab: {fileID: 8702094406254414331, guid: 5e6d66abd5dc6104fbf660a9dae9f9f6, type: 3}
+  bishopBlackPrefab: {fileID: 8434580646991008804, guid: 43ed370394b1f0741b6108b56fa73e1b, type: 3}
+  knightBlackPrefab: {fileID: 6169390666651062659, guid: c22e0e2a2fef0594e9f6c91a1648b2a8, type: 3}
+  pawnBlackPrefab: {fileID: 8475290384982053480, guid: 78d635f779eda224490a6e0bfa7b83bd, type: 3}
+  rookBlackPrefab: {fileID: 9222607675575952437, guid: dac6cbca194e13348a03a02bfb715456, type: 3}
+  kingWhitePrefab: {fileID: 6700424573108185699, guid: 4528622e96de2654ea678b2878173411, type: 3}
+  queenWhitePrefab: {fileID: 4071514253228047536, guid: 1762e03d81b74ac49a4ffb9d96fbb2dc, type: 3}
+  bishopWhitePrefab: {fileID: 344148524902120224, guid: c5f6d4a012f6cae4bad6210a84f9f89a, type: 3}
+  knightWhitePrefab: {fileID: 2238251182852294939, guid: fc7bc872064b12247927e798e0343190, type: 3}
+  pawnWhitePrefab: {fileID: 7109672350821325278, guid: 220865338109b1f43b0c161fe71a72f7, type: 3}
+  rookWhitePrefab: {fileID: 3094625470478013801, guid: 910e596c79f75aa48b41ba04a38fd388, type: 3}

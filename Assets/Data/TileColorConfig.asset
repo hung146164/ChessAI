@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf4c87021d287b34282fdaa1f39f29e3, type: 3}
+  m_Name: TileColorConfig
+  m_EditorClassIdentifier: 
+  hoverMaterial: {fileID: 2100000, guid: 72d3b9839e2bba240bf1cf1778fe0dff, type: 2}
+  exitMaterial: {fileID: 2100000, guid: 69704bd66939dea4a843d0df2bbb7baf, type: 2}
+  selectMaterial: {fileID: 2100000, guid: 920f2fa480474da4fb8a12e08e00cad8, type: 2}
+  validMoveMaterial: {fileID: 2100000, guid: 876a58bc464f1ae4094efa4959fea7cb, type: 2}
